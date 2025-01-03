@@ -1,0 +1,71 @@
+Milestone 1--
+
+
+Module 1
+
+•	Paragraph tag <p></p>
+•	Bold tag <b></b>
+•	Strong tag <strong></strong>    (Semantic)
+•	Italic <i></i>
+•	Emphasize <em></em>
+•	Heading Tag <h1></h1>     (1 - 6)
+•	Small tag <small></small>
+Inline --- In a line (bold, italic , emphasize, small, span, anchor, Input)
+Block---(Paragraph, Heading)
+•	 Unordered list Tag <ul></ul> (Container Tag)
+•	Span tag <span></span>
+•	List tag <li></li>
+•	Ordered list Tag <ol></ol> (Container Tag)
+•	Division Tag <div></div> (Container Tag)
+•	Break tag <br></br>
+•	Button tag <button></button>
+•	Anchor Tag <a></a>
+•	Hypertext reference “href” (Attribute)
+•	Target (Attribute)….If you set the target attribute to "_blank", the link will open in a new browser window or a new tab.{ <a href=””  target=”blank”></a> }
+•	Image tag <img >  (unsplash website)
+•	Source Attribute src=”” 
+•	Alternative Attribute alt=””
+•	Input tag <input> 
+((((( <input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+))))
+•	Type attribute type=””
+•	Option Tag <option></option>
+•	Value attribute value=””
+•	Form tag <form></form>
+•	Placeholder attribute placeholder=””
+•	Title tag <title></title>
+•	Favicon <link rel=” shortcut icon” herf=”” type=”image/x-icon”>
+•	<!Doctype html>
+•	Meta tag <meta>
+•	Footer tag <footer></footer>
+•	Comment <!--this is a comment-->
+•	
+
+
+
+
+
+
+
+
