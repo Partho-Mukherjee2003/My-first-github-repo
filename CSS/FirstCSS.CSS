@@ -1,0 +1,39 @@
+h2{
+    font-size: large;
+    color: #ce0303;
+     background-image: url(../partho.jpg); 
+        
+    height: 700px ;
+    width: 1000px;
+}
+li{
+    color: #ce0303;
+    font-style: italic ;
+}
+p{
+    background-color: aquamarine;
+    border: 20px solid lawngreen;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px maroon;
+
+}
+.second {
+            /* display: none; */
+            /* visibility: hidden; */
+}
+.header {
+    height: 300px;
+    width: 600px;
+    background-image: url('seefood.jpg');
+    text-align: center;
+    font-size: larger;
+    background-repeat: repeat-y;
+}
+.amet
+    {
+        border: 2px solid red;
+        /* height: 60px; */
+        display: inline-block;
+        border-radius: 3px;
+    }
